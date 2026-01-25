@@ -2,6 +2,9 @@
 
 This is a Jekyll-powered website using the [Minimal Mistakes Theme](https://github.com/mmistakes/minimal-mistakes).
 
+Cookiebanner
+https://www.cookiehub.com/pricing
+
 ## Setup
 
 ### Prerequisites
