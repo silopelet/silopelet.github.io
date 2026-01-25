@@ -1,6 +1,6 @@
 # Jekyll Website
 
-This is a Jekyll-powered website using the [So Simple Theme](https://github.com/mmistakes/so-simple-theme).
+This is a Jekyll-powered website using the [Minimal Mistakes Theme](https://github.com/mmistakes/minimal-mistakes).
 
 ## Setup
 
@@ -62,4 +62,4 @@ Edit `_config.yml` to customize:
 - URL settings
 - Theme options
 
-For more theme customization options, see the [So Simple Theme documentation](https://github.com/mmistakes/so-simple-theme).
+For more theme customization options, see the [Minimal Mistakes Theme documentation](https://mmistakes.github.io/minimal-mistakes/docs/configuration/).

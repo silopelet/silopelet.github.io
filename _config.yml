@@ -1,12 +1,12 @@
 # Site Settings
 title: "My Jekyll Site"
-description: "A simple Jekyll site using the So Simple theme"
+description: "A simple Jekyll site using the Minimal Mistakes theme"
 url: ""
 baseurl: ""
 locale: en-US
 
 # Theme Settings
-theme: jekyll-theme-so-simple
+remote_theme: mmistakes/minimal-mistakes
 
 # Author
 author:
