@@ -1,6 +1,7 @@
 ---
 layout: home
-title: "Welcome to My Jekyll Site"
+title: "Willkommen zu Silopelet"
+author_profile: true
 ---
 
 This is the homepage of my Jekyll site using the Minimal Mistakes theme. Check out the [Hello World](/hello-world) page!

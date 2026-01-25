@@ -2,6 +2,7 @@
 layout: single
 title: "Hello World"
 permalink: /hello-world/
+author_profile: true
 ---
 
 # Hello World!

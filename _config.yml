@@ -1,5 +1,5 @@
 # Site Settings
-title: "My Jekyll Site"
+title: "Silopelet"
 description: "A simple Jekyll site using the Minimal Mistakes theme"
 url: ""
 baseurl: ""
@@ -7,11 +7,12 @@ locale: en-US
 
 # Theme Settings
 theme: minimal-mistakes-jekyll
+minimal_mistakes_skin: "sunrise"
 
 # Author
 author:
-  name: "Site Author"
-  email: your-email@example.com
+  name: ""
+  avatar: "/assets/images/silopelet-picture.png"
 
 # Build Settings
 markdown: kramdown
