@@ -6,7 +6,7 @@ baseurl: ""
 locale: en-US
 
 # Theme Settings
-remote_theme: mmistakes/minimal-mistakes
+theme: minimal-mistakes-jekyll
 
 # Author
 author:
