@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: single
 title: "Hello World"
 permalink: /hello-world/
 ---
@@ -10,7 +10,7 @@ Welcome to my first page on this Jekyll site! This is a simple demonstration pag
 
 ## About This Page
 
-This page was created as part of setting up a Jekyll website using the **So Simple Theme**. 
+This page was created as part of setting up a Jekyll website using the **Minimal Mistakes Theme**. 
 
 ### Features
 
