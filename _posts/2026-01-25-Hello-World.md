@@ -5,8 +5,6 @@ permalink: /hello-world/
 author_profile: true
 ---
 
-# Hello World!
-
 Welcome to my first page on this Jekyll site! This is a simple demonstration page.
 
 ## About This Page
