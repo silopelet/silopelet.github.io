@@ -18,12 +18,19 @@
   border: none; // 5px solid #024008;
 }
 
-.site-title {
-  font-size: 0.85em;
-  text-transform: uppercase;
-  font-weight: normal;
-  min-width: 110px;
-  text-align: center;
+.greedy-nav {
+  background-color: #e8d5b789;
+}
+.masthead__inner-wrap {
+  padding-left: 0;
+}
+.greedy-nav a.site-title {
+  visibility: hidden;
+}
+.masthead {
+  background-image: url('/assets/images/title.svg');
+  background-repeat: no-repeat;
+  background-size: contain;
 }
 
 .masthead__menu-item a {
