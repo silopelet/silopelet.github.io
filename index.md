@@ -1,7 +1,7 @@
 ---
 layout: home
-title: "Silopelet"
+title: "Dreiste Meinungs-Kommentare, Analysen & Ergänzungen"
 author_profile: true
 ---
 
-Meinung * Analyse * Ergänzung 
+
