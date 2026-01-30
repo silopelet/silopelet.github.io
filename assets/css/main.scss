@@ -21,13 +21,10 @@
 .greedy-nav {
   background-color: #e8d5b789;
 }
-.masthead__inner-wrap {
-  padding-left: 0;
-}
 .greedy-nav a.site-title {
   visibility: hidden;
 }
-.masthead {
+.masthead__inner-wrap {
   background-image: url('/assets/images/title.svg');
   background-repeat: no-repeat;
   background-size: contain;

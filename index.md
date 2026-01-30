@@ -1,6 +1,6 @@
 ---
 layout: home
-title: "Dreiste Meinungs-Kommentare, Analysen & Ergänzungen"
+title: "Dreiste Kommentare, Meinung und Analysen"
 author_profile: true
 ---
 
